@@ -20,3 +20,15 @@ O mapa apresenta de forma **agrupada as instalações portuárias por Município
 # Atualizado em:
 **03/07/2025**
 
+# Passo 1
+Fazer Download: 
+* https://dados.gov.br/dados/conjuntos-dados/instalacoes-portuarias
+* https://github.com/kelvins/municipios-brasileiros/blob/main/csv/estados.csv
+* https://github.com/kelvins/municipios-brasileiros/blob/main/csv/municipios.csv
+
+# Passo 2
+Execute instalações_portuarias.ipynb
+
+Após a execução de todos os passos você vai gerar um arquivo portos.json que será incorporado ao html mapa_portos.html
+
+
