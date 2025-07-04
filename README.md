@@ -7,17 +7,21 @@ O mapa apresenta de forma **agrupada as instalações portuárias por Município
 [Área de Trampo - Portos](https://www.areadetrampo.com.br/instalacoes-portuarias-particulares-agrupadas-por-municipio/)
 
 # Fonte para Latitude e Longitude dos Municípios:
+
 ### Informações de latitude e longitude dos Municípios Brasileiros
 * https://github.com/kelvins/municipios-brasileiros/blob/main/csv/estados.csv
 * https://github.com/kelvins/municipios-brasileiros/blob/main/csv/municipios.csv
   
 ### Informações sobre as Instalações Portuárias
-* [Dados Abertos - Instalações Portuárias](https://dados.gov.br/dados/conjuntos-dados/instalacoes-portuarias)
+
+![[Gov BR](govbr.webp)](https://dados.gov.br/dados/conjuntos-dados/instalacoes-portuarias)
   
 # Autor:
+
 **Antonino Marques Jares**
 
 # Atualizado em:
+
 **03/07/2025**
 
 # Passo 1
